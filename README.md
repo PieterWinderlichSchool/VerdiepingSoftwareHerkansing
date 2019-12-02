@@ -15,6 +15,9 @@ Unreal engine: Vrij simpel om te leren met een goede tutorial. Node based shadin
 Unity: Zelf shader schrijven is een goede optie. de kennis die ik beheers is dusdanig dat ik zelfstandig er iets mee kan bouwen. Kan een chaos worden aangezien er veel bij komt kijken. Toch blijft het feit dat ik niet alle ins en outs nog weet.
 ShaderGraph: Goede optie. Heeft erg veel nodes om wat mee te doen. Goede documentation. Net als unreal makkelijk in het gebruik. Kan een zooitje worden met alle lijntjes.
 
+Mijn keuze wordt shadergraph. Reden is is dat ik veel sneller en beter shaders kan samenstellen,heeft goede documentatie. Nadeel is wel dat het rommelig kan worden met alle lijntjes maar dat valt te overzien.
+
+
  
 
 ## Leerdoelen 
